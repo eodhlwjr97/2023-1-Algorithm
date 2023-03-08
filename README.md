@@ -9,9 +9,9 @@
 ### 3월
 | 날짜        | 문제                                                         |
 | ---------- | ------------------------------------------------------------ |
-| 03월 06일  | [[LeetCode] Two Sum](https://leetcode.com/problems/two-sum/) 
-| 03월 07일 |  |
-| 03월 08일  | 
+| 03월 06일  | [[LeetCode] 1_Two Sum](https://leetcode.com/problems/two-sum/) 
+| 03월 07일 | [[LeetCode] 1472_Design Browser History](https://leetcode.com/problems/design-browser-history/) |
+| 03월 08일  | [[LeetCode] 20_Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 | 03월 09일 |  |
 | 03월 10일  | 
 | 03월 11일 |  |
