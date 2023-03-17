@@ -18,9 +18,9 @@
 | 03월 12일  | 
 | 03월 13일 |  |
 | 03월 14일  | 
-| 03월 15일 | [[백준] 14916 거스름돈](https://www.acmicpc.net/problem/14916) |
+| 03월 15일 | [[백준] 14916 거스름 돈](https://www.acmicpc.net/problem/14916) |
 | 03월 16일  | [[백준] 1343 폴리오미노](https://www.acmicpc.net/problem/1343)
-| 03월 17일 |  |
+| 03월 17일 | [[백준] 2828 사과 담기 게임](https://www.acmicpc.net/problem/2828) |
 | 03월 18일  | 
 | 03월 19일 |  |
 | 03월 20일  | 
