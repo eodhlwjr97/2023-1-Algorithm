@@ -1,5 +1,6 @@
 # 2023-1-Algorithm
 🐛 : 시간/메모리 생각해서 다시 풀어볼 것   
+🔥 : 구글링해서 풀었으므로 다음날 풀어볼 것   
 
 ### 1월
 | 날짜        | 문제                                                         |
@@ -23,7 +24,7 @@
 | 03월 16일  | [[백준] 1343 폴리오미노](https://www.acmicpc.net/problem/1343)
 | 03월 17일 | [[백준] 2828 사과 담기 게임](https://www.acmicpc.net/problem/2828) |
 | 03월 18일  | [[백준] 2217 로프](https://www.acmicpc.net/problem/2217) 🐛 
-| 03월 19일 | [[백준] 1940 ](https://www.acmicpc.net/problem/1940) 🐛 |
+| 03월 19일 | [[백준] 1940 ](https://www.acmicpc.net/problem/1940) 🔥 |
 | 03월 20일  | 
 | 03월 21일 |  |
 
