@@ -26,5 +26,4 @@
 | 03월 18일  | [[백준] 2217 로프](https://www.acmicpc.net/problem/2217) 🐛 
 | 03월 19일 | [[백준] 1940 주몽](https://www.acmicpc.net/problem/1940) 🔥 |
 | 03월 20일  | [[백준] 2512 예산](https://www.acmicpc.net/problem/2512) 🔥
-| 03월 21일 |  |
-
+| 03월 21일 | [[백준] 11508 2+1 세일](https://www.acmicpc.net/problem/11508) |
