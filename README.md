@@ -29,7 +29,7 @@
 | 03월 21일 | [[백준] 11508 2+1 세일](https://www.acmicpc.net/problem/11508) |
 | 03월 22일 | [[백준] 14620 꽃길](https://www.acmicpc.net/problem/14620) |
 | 03월 23일 | [[프로그래머스] 로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) |
-| 03월 24일 | [[백준] ]() |
+| 03월 24일 | [[백준] 2979 트럭 주차](https://www.acmicpc.net/problem/2979) |
 | 03월 25일 | [[백준] ]() |
 | 03월 26일 | [[백준] ]() |
 | 03월 27일 | [[백준] ]() |
