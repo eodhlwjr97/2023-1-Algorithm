@@ -54,7 +54,7 @@ public class BJ_17484_진우의달여행 {
 		}
 	}
 
-	private static boolean check(int r, int c) {
+	private static boolean check(int r, int c) { 
 		return 0 <= r && r < R && 0 <= c && c < C;
 	}
 
