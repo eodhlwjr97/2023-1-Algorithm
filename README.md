@@ -35,5 +35,5 @@
 | 03월 27일 | [[백준] 10448 유레카이론](https://www.acmicpc.net/problem/10448) |
 | 03월 28일 | [[백준] 17484 진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484) |
 | 03월 29일 | [[백준] 1969 DNA](https://www.acmicpc.net/problem/1969) |
-| 03월 30일 | [[백준] ]() |
+| 03월 30일 | [출처없음 (구글링 코딩테스트 문제)] |
 | 03월 31일 | [[백준] ]() |
