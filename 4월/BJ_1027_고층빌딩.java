@@ -3,7 +3,7 @@ package day_0403;
 import java.io.*;
 import java.util.*;
 
-// 틀린이유 : 	Double.MAX_VALUE * (-1) != Double.MIN_VALUE
+// 틀린이유 : Double.MAX_VALUE * (-1) != Double.MIN_VALUE
 // 고층 빌딩 A에서 다른 고층 빌딩 B가 볼 수 있는 빌딩이 되려면, 두 지붕을 잇는 선분이 A와 B를 제외한 1) 다른 고층 빌딩을 지나거나 2) 다른 고층 빌딩과 접하지 않아야 한다.
 public class BJ_1027_고층건물 {
 	static int N;
@@ -36,7 +36,7 @@ public class BJ_1027_고층건물 {
 	}
 
 	// 오른쪽의 경우 기준 빌딩과 가까울수록 |기울기|가 커야한다 (X) : 음수에서 양수로 기울기가 변하는 경우가 있을 수 있다
-	// 기울기(-)가 작아야한다
+	// 기울기(-)가 작아야한다 => 기울기 변화 양상 : ㅁ(기준 건물) \ ㅡ /
 	private static int countR(int pickBuilding) {
 		int cntR = 0; // 볼 수 있는 건물의 수
 		double maxInclination = (-1) * Double.MAX_VALUE; // (-) 기울기이기 때문
@@ -62,6 +62,7 @@ public class BJ_1027_고층건물 {
 	}
 
 	// 왼쪽의 경우 기준 빌딩과 가까울수록 기울기가 커야한다.
+	// => 기울기 변화 양상 : \ ㅡ / ㅁ(기준 건물)
 	private static int countL(int pickBuilding) {
 		int cntL = 0; // 볼 수 있는 건물의 수
 		double maxInclination = Double.MAX_VALUE;
@@ -82,7 +83,7 @@ public class BJ_1027_고층건물 {
 
 			if (maxInclination > inclination) {
 				cntL++;
-				maxInclination = inclination; // 더 오른쪽 빌딩과 비교하기 위해 기울기 갱신
+				maxInclination = inclination; // 더 왼쪽 빌딩과 비교하기 위해 기울기 갱신
 			}
 		}
 		return cntL;
