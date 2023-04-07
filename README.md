@@ -45,5 +45,6 @@
 | 04월 02일 | [[백준] 1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541) |
 | 04월 03일  | [[백준] 1027 고층 건물](https://www.acmicpc.net/problem/1027)
 | 04월 04일 |  [[백준] 20365 블로그2](https://www.acmicpc.net/problem/20365) |
-| 04월 05일  |
-| 04월 06일  | |
+| 04월 05일  |   
+| 04월 06일  | |    
+| 04월 07일  |   
