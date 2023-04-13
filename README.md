@@ -24,8 +24,8 @@
 | 03월 16일  | [[백준] 1343 폴리오미노](https://www.acmicpc.net/problem/1343)
 | 03월 17일 | [[백준] 2828 사과 담기 게임](https://www.acmicpc.net/problem/2828) |
 | 03월 18일  | [[백준] 2217 로프](https://www.acmicpc.net/problem/2217) 🐛 
-| 03월 19일 | [[백준] 1940 주몽](https://www.acmicpc.net/problem/1940) 🔥 |
-| 03월 20일  | [[백준] 2512 예산](https://www.acmicpc.net/problem/2512) 🔥
+| 03월 19일 | [[백준] 1940 주몽](https://www.acmicpc.net/problem/1940) |
+| 03월 20일  | [[백준] 2512 예산](https://www.acmicpc.net/problem/2512)    
 | 03월 21일 | [[백준] 11508 2+1 세일](https://www.acmicpc.net/problem/11508) |
 | 03월 22일 | [[백준] 14620 꽃길](https://www.acmicpc.net/problem/14620) |
 | 03월 23일 | [[프로그래머스] 로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) |
