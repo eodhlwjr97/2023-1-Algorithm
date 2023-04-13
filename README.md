@@ -38,7 +38,8 @@
 | 03월 30일 | [출처없음 (구글링 코딩테스트 문제)] |
 | 03월 31일 | [[백준] 1018 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) |    
  
- ### 4월
+ ### 4월    
+ ##### 4.4 - 4.10 독감
 | 날짜        | 문제                                                         |
 | ---------- | ------------------------------------------------------------ |
 | 04월 01일  | [[백준] 11047 동전 0](https://www.acmicpc.net/problem/11047) <br> [[백준] 3020 개똥벌레](https://www.acmicpc.net/problem/3020)
@@ -53,4 +54,5 @@
 | 04월 10일  | |    
 | 04월 11일  | [[백준] 14503 로봇 청소기](https://www.acmicpc.net/problem/14503)    
 | 04월 12일  | [[백준] 2644 촌수계산](https://www.acmicpc.net/problem/2644) |    
-| 04월 13일  | [[백준다시풀기] 14503 로봇 청소기](https://www.acmicpc.net/problem/14503)    
+| 04월 13일  | [[백준다시풀기] 14503 로봇 청소기](https://www.acmicpc.net/problem/14503) <br> [[백준] 1969 DNA](https://www.acmicpc.net/problem/1969)    
+| 04월 12일  | [[백준다시풀기] 2644 촌수계산](https://www.acmicpc.net/problem/2644) <br> [[백준]]()    
