@@ -52,4 +52,5 @@
 | 04월 09일  |   
 | 04월 10일  | |    
 | 04월 11일  | [[백준] 14503 로봇 청소기](https://www.acmicpc.net/problem/14503)    
-| 04월 11일  | [[백준] 2644 촌수계산](https://www.acmicpc.net/problem/2644) |    
+| 04월 12일  | [[백준] 2644 촌수계산](https://www.acmicpc.net/problem/2644) |    
+| 04월 13일  | [[백준복습] 14503 로봇 청소기](https://www.acmicpc.net/problem/14503)    
