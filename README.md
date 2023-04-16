@@ -53,9 +53,9 @@
 | 04월 09일  |   
 | 04월 10일  | |    
 | 04월 11일  | [[백준] 14503 로봇 청소기](https://www.acmicpc.net/problem/14503)    
-| 04월 12일  | [[백준] 2644 촌수계산](https://www.acmicpc.net/problem/2644) |    
+| 04월 12일  | |    
 | 04월 13일  | [[백준다시풀기] 14503 로봇 청소기](https://www.acmicpc.net/problem/14503)    
-| 04월 14일  | [[백준다시풀기] 2644 촌수계산](https://www.acmicpc.net/problem/2644) <br> [[백준다시풀기] 1969 DNA](https://www.acmicpc.net/problem/1969) |    
+| 04월 14일  | [[백준다시풀기] 1969 DNA](https://www.acmicpc.net/problem/1969) |    
 | 04월 15일  |         
 | 04월 16일  | |    
-| 04월 17일  |        
+| 04월 17일  | [[백준다시풀기] 2644 촌수계산](https://www.acmicpc.net/problem/2644)       
