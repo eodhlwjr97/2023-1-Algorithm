@@ -55,7 +55,7 @@ public class BJ_1969_DNA_다시풀기 {
 	}
 
 	private static String selectChar(int cntA, int cntC, int cntG, int cntT) {
-		System.out.println("cntA: " + cntA + " cntC: " + cntC + " cntG: " + cntG + " cntT: " + cntT);
+//		System.out.println("cntA: " + cntA + " cntC: " + cntC + " cntG: " + cntG + " cntT: " + cntT);
 
 		// 문자 선정하기 (순서대로 hm에 넣기)
 		HashMap<Character, Integer> hm = new HashMap<>();
@@ -69,7 +69,36 @@ public class BJ_1969_DNA_다시풀기 {
 		max = Math.max(Math.max(cntA, cntC), Math.max(cntG, cntT));
 
 		String returnS = "";
-		for (char c : hm.keySet()) {
+
+		// 틀린 이유를 발견하기 위해 keySet을 찍어보니 A,C,T,G 순으로 출력된다
+//		for (char c : hm.keySet()) {
+//			System.out.print(c + " ");
+//		}
+
+//		for (char c : hm.keySet()) {
+//			if (hm.get(c).equals(max)) {
+//				returnS = String.valueOf(c);
+//				break;
+//			}
+//		}
+
+//		// A, C, G, T 순으로 정렬 : Object[] 이용해서 keySet 정렬 : 100ms
+//		Object[] mapKey = hm.keySet().toArray();
+//		Arrays.sort(mapKey);
+//
+//		for (Object obj : mapKey) {
+//			String s = String.valueOf(obj);
+//			if (hm.get(s.charAt(0)).equals(max)) {
+//				returnS = String.valueOf(s.charAt(0));
+//				break;
+//			}
+//
+//		}
+
+		// List 이용해서 keySet 정렬 : 96ms
+		List<Character> keySet = new ArrayList<>(hm.keySet());
+		Collections.sort(keySet);
+		for (char c : keySet) {
 			if (hm.get(c).equals(max)) {
 				returnS = String.valueOf(c);
 				break;
