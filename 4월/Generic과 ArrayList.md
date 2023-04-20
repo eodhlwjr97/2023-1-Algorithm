@@ -73,4 +73,4 @@ List<Integer>[] list = new ArrayList<>[N+1]; // compile error
 참고링크1 : [JAVA 제네릭 배열을 생성하지 못하는 이유](https://pompitzz.github.io/blog/Java/whyCantCreateGenericsArray.html#%E1%84%8C%E1%85%A6%E1%84%82%E1%85%A6%E1%84%85%E1%85%B5%E1%86%A8%E1%84%80%E1%85%AA-%E1%84%87%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%8B%E1%85%B4-%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%B7)     
 참고링크2 : [Java Array of ArrayList, ArrayList of Array](https://www.digitalocean.com/community/tutorials/java-array-of-arraylist-of-array)        
 참고링크3 : ['generic array creation' compile error](https://multifrontgarden.tistory.com/258)   
-
+참고링크4 : [백준 2644번 촌수계산](https://loosie.tistory.com/165)
