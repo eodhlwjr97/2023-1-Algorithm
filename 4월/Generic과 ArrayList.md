@@ -50,7 +50,7 @@ ArrayList<Object> arrayList = new ArrayList<String>(); // 제네릭 타입은 �
 ```
   **2) 배열은 런타임에 타입이 실체화, 제네릭은 런타임에 소거**       
 ```java
-Object[] obj = new Integer[1]; // 배열 obg는 런타임에 Integer[]가 된다
+Object[] obj = new Integer[1]; // 배열 obj는 런타임에 Integer[]가 된다
 ```
 ```java
 // 컴파일 타임(실제 작성한 코드)
