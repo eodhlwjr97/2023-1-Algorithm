@@ -41,7 +41,8 @@ JAVA에서 Generic은
 Object[] obj = new String[1]; // 배열은 공변하므로 String[]은 Object[]의 하위 타입이므로 컴파일 가능
 
 비고)
-obj[0] = 1; // obj는 컴파일 타임에 Object[]이므로 Integer을 할당 가능. 그러나, 런타임엔 String[]이기 때문에 예외가 발생합니다.
+// obj는 컴파일 타임에 Object[]이므로 Integer을 할당 가능. 그러나, 런타임엔 String[]이기 때문에 예외가 발생함
+obj[0] = 1;  
 ```
 ```java
 ArrayList<Object> arrayList = new ArrayList<String>(); // 제네릭 타입은 불공변하므로 컴파일 불가능
