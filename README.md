@@ -64,4 +64,5 @@
 | 04월 20일  | [[백준] 2644 촌수계산](https://www.acmicpc.net/problem/2644) |           
 | 04월 21일  | [[백준] 5014 스타트링크](https://www.acmicpc.net/problem/5014)         
 | 04월 22일  | [[백준] 9205 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) |           
-| 04월 23일  | [[백준]]()         
+| 04월 23일  |      
+| 04월 24일  | [[백준] 11279 최대 ](https://www.acmicpc.net/problem/11279) |           
