@@ -66,3 +66,4 @@
 | 04월 22일  | [[백준] 9205 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) |           
 | 04월 23일  |      
 | 04월 24일  | [[백준] 11279 최대 힙](https://www.acmicpc.net/problem/11279) |           
+| 04월 25일  | [[백준] 1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)     
