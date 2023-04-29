@@ -7,6 +7,7 @@ List 같이 꺽쇠<> 안에 클래스 타입이 명시된 패턴을 자주 발�
      
 아래와 같이 백준의 촌수계산 문제를 풀다가 생소한 패턴을 보았고, 이에 대해 공부한 것을 정리하려고 한다
 ```java
+// 자료형[] 변수이름 = new 자료형[]
 List<Integer>[] list = new ArrayList[N+1];
 
 List<Integer> list = new ArrayList<>()[N+1]; // compile error
