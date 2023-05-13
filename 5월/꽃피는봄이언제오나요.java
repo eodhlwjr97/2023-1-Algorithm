@@ -26,7 +26,7 @@ class Main {
 		      }
 		  }
 	  }
-	    while(!q.isEmpty()) {
+	  while(!q.isEmpty()) {
 		    Pos pos = q.poll();
 		    
 		    for(int d=0; d<4; d++){
